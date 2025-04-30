@@ -6,11 +6,13 @@ To write a python program for a search function with parameter list name and the
 
 
 ## Algorithm
-1. Read an integer l and then take l string inputs into a list List.
-2. Read the target string n to be searched.
-3. Initialize a variable found as False.
-4. Iterate through each element in List and compare with n. If a match is found, set found = True and break.
-5. Print "Found" if found is True; otherwise, print "Not Found".
+1. Check if the target exists: See if the input n is present within the List.
+2. Report if found: If n is in List, the result is "Found".
+3. Report if not found: Otherwise, if n is not in List, the result is "Not Found".
+4. Get list length: Read the number of elements for the List.
+5. Create and populate list: Take that many inputs and store them in the List.
+6. Get search target: Read the value to be searched for (n).
+7. Perform and display search: Call the search function and print its output.
 ## Program:
 ```
 Program to implement a search function with parameter list name and the value to be searched using string values.
