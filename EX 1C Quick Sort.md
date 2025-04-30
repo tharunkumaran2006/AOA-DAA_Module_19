@@ -53,6 +53,7 @@ for num in arr:
 
 
 ## Output:
+![image](https://github.com/user-attachments/assets/1da761d1-4729-4b6e-bc9e-bd40c156804d)
 
 
 
