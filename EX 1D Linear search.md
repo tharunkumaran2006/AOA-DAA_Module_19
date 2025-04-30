@@ -14,14 +14,24 @@ To write a python program for a search function with parameter list name and the
 
 ## Program:
 ```
-/*
 Program to implement a search function with parameter list name and the value to be searched using string values.
-Developed by: 
-Register Number:  
-*/
+Developed by: LOKNAATH P 
+Register Number: 212223240080
+```
+```python
+def search(List,n):
+    if n in List:
+        return "Found"
+    return "Not Found"
+    
+length=int(input())
+List=[input() for _ in range(length)]
+n=input()
+print(search(List,n))
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/460b44fe-d941-43b9-9c56-7c63bea03b43)
 
 
 
