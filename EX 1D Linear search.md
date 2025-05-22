@@ -17,7 +17,6 @@ To write a python program for a search function with parameter list name and the
 ### Program to implement a search function with parameter list name and the value to be searched using string values.
 ### Developed by: THARUN V K 
 ### Register Number: 212223230231
-```
 ```python
 def search(List,n):
     if n in List:
