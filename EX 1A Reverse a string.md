@@ -15,11 +15,10 @@ To write a program to create a recursive function to reverse a string.
 5.Concatenate the last character with the result of the recursive call and return it.
 
 ## Program:
-```
-Program to implement Reverse a String
-Developed by: LOKNAATH P
-Register Number: 212223240080
-```
+### Program to implement Reverse a String
+### Developed by: THARUN V K
+### Register Number: 212223230231
+
 ```python
 
 def reverse_string(s):
