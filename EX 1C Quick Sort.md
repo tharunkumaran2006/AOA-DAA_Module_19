@@ -11,11 +11,9 @@ To write a python program to implement quick sort using tha last element as pivo
 5. Print the sorted elements of arr. 
 
 ## Program:
-```
-Program to implement implement quick sort using the last element as pivot on the list of float values.
-Developed by: LOKNAATH P
-Register Number: 212223240080
-```
+### Program to implement implement quick sort using the last element as pivot on the list of float values.
+### Developed by: THARUN V K
+### Register Number: 212223230231
 ```python
 def quickSort(arr, low, high):
     if low >= high:
