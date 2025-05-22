@@ -14,10 +14,9 @@ To write a python program for a search function with parameter list name and the
 6. Get search target: Read the value to be searched for (n).
 7. Perform and display search: Call the search function and print its output.
 ## Program:
-```
-Program to implement a search function with parameter list name and the value to be searched using string values.
-Developed by: LOKNAATH P 
-Register Number: 212223240080
+### Program to implement a search function with parameter list name and the value to be searched using string values.
+### Developed by: THARUN V K 
+### Register Number: 212223230231
 ```
 ```python
 def search(List,n):
