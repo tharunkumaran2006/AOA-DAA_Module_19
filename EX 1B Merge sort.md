@@ -11,11 +11,10 @@ To write a python program to sort the first half of the list using merge sort.
 5. Return the fully sorted array.
 
 ## Program:
-```
-Program to implement Merge Sort
-Developed by: LOKNAATH P
-Register Number: 212223240080
-```
+### Program to implement Merge Sort
+### Developed by: THARUN V K
+### Register Number: 212223230231
+
 ```python
 n = int(input())  
 S = [float(input()) for _ in range(n)]  
